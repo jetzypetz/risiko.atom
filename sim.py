@@ -1,4 +1,4 @@
-def sim(a,b):
+def sim(a,b): # simulate a battle between two bordering regions with army sizes a and b
 	import random
 	if a>1:
 		global die1#roll
